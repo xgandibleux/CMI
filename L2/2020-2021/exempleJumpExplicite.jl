@@ -1,4 +1,4 @@
-# L2 CMI 2021 JuMP Explicite
+# exempleJumpExplicite.jl
 
 using JuMP, GLPK, Printf
 
