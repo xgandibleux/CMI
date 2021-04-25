@@ -58,3 +58,4 @@ print("n3 = ",floor(Int,value(n3))," segments by bicycle\n")
 println(" ")
 
 println("That's all folks --------------------------------------")
+
