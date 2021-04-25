@@ -1,4 +1,4 @@
-# glpsol --math l2CMI2021gmpImplicite.mod
+# glpsol --math exempleGmpImplicite.mod
 
 # Variables definition
 
