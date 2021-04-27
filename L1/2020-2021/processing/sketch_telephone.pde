@@ -24,7 +24,7 @@ void draw() {
   fill(v1,v2,v3);
   rect(25, 25, 50, 50);
   
-  // Verifie si le cornet du telephone est decroche (true) ou racroche (false)
+  // Verifie si le cornet du telephone est decroche (true) ou raccroche (false)
   estDecroche = positionCornet();
   
   if (estDecroche==true)
