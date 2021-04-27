@@ -32,7 +32,7 @@ void draw() {
     // cornet decroche -> signalisation en affichant un carre vert
     v1=0; v2=255; v3=0;
     
-    // verifie si un appel attente appel
+    // verifie si un appel est en attente d'acceptation
     if (sonnerie==true)
     {
       // appel pris 
@@ -76,11 +76,6 @@ boolean positionCornet()
 // ==============================================================================
 boolean isNumeroComplet()
 {
-//  boolean numeroComplet = false;
-//  if (nchiffres==10)
-//  {
-//    numeroComplet = true;
-//  }
   return (nchiffres==10); //numeroComplet;
 }
 
