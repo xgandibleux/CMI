@@ -76,7 +76,7 @@ boolean positionCornet()
 // ==============================================================================
 boolean isNumeroComplet()
 {
-  return (nchiffres==10); //numeroComplet;
+  return (nchiffres==10); //numero national francais Complet;
 }
 
 // ==============================================================================
